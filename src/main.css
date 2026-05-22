@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body { 
+    background-color: #fcfcfc; 
+    font-family: 'Oswald', 'Plus Jakarta Sans','Inter', sans-serif;
+    overflow-x: hidden;
+    color: #121212;
+}
+.text-huge { font-size: clamp(3rem, 12vw, 12rem); line-height: 0.9; }
+.line-border { border-color: #e5e5e5; }
